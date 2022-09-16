@@ -1,6 +1,6 @@
-|标题|作者|期刊|DOI|
-|:---|---|---:|:---|
-|ERNIE 3.0: LARGE-SCALE KNOWLEDGE ENHANCEDPRE-TRAINING FOR LANGUAGE UNDERSTANDING ANDGENERATION|Yu Sun∗ Shuohuan Wang∗ Shikun Feng∗|
+|标题|作者|阅读情况|DOI|
+|:---|---|---|:---|
+|ERNIE 3.0: LARGE-SCALE KNOWLEDGE ENHANCEDPRE-TRAINING FOR LANGUAGE UNDERSTANDING ANDGENERATION|Yu Sun∗ Shuohuan Wang∗ Shikun Feng∗|略读|arXiv:2107.02137v1|
 
 # 摘要
 >ERNIE 3.0 是用于LLM的，因为大多数的LLM只是基于文本上的训练。例如：GPT-3 T5
